@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Octopus-Aqua</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="PlantInfo">PlantInfo</string>
+    <string name="PlantType">PlantType</string>
+    <string name="PlantName">PlantName</string>
+    <string name="PlantGroup">PlantGroup</string>
+
+    <string name="options">options</string>
+
+    <string name="notifications">Notifications</string>
+    <string name="notif_water_end">Water has ended notifications</string>
+    <string name="notif_plant_water">Plant watered notifications</string>
+
+    <string name="info_save">Save</string>
+    <string name="finish">Finish</string>
+    <string name="set_image">Set image</string>
+
+    <string name="name">Name:</string>
+    <string name="type">Type:</string>
+    <string name="info">Info:</string>
+    <string name="group">Group:</string>
+
+    <string name="new_group">New group</string>
+    <string name="input_group">Input new group name</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="login">Login</string>
+    <string name="email">E-mail</string>
+    <string name="pass">Password</string>
+    <string name="pass_confirm">Password confirmation</string>
+
+    <string name="png">png</string>
+
+    <string name="picpath">picPath</string>
+
+</resources>
